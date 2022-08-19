@@ -1,6 +1,6 @@
 # NLP
 
-Spam E_mail
+Spam E-mail Project
 
 
 ## Wordcloud
