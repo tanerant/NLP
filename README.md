@@ -11,3 +11,4 @@ Spam E-mail Project
 
 
 ![alt text](https://github.com/tanerant/NLP/blob/main/result.JPG)
+.
