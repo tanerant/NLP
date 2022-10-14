@@ -10,5 +10,5 @@ Spam E-mail Project
 ## Result
 
 
-![alt text](https://github.com/tanerant/NLP/blob/main/result.JPG)
+![alt text](https://github.com/tanerant/NLP/blob/main/result.JPG) .
 .
